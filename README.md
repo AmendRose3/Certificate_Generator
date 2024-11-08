@@ -48,9 +48,3 @@ A simple Flask-based web application that allows users to generate personalized 
 5. Open your browser and go to `http://127.0.0.1:5000/`.
 6. Upload your CSV file and click on "Generate Certificates". The app will generate the certificates and provide a download link for the ZIP file.
 
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
